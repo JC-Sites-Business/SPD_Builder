@@ -1,0 +1,55 @@
+# Business Plan for SPD
+
+    - Wedsite
+        - Highlight things like insurance
+        - qualifications
+        - Google views
+        - contact details
+    - Register with Governing bodies
+    - Google reviews
+        - Checkatrade or Google Business Profile and showcase high-quality photos of your finished projects.
+    - Put Alfi in charge of Solicials
+        - Photographs
+        - Promo code
+        - Liase with Customers
+        - Monitoring Sols for builder requests
+    - Company Van
+        - KIA 
+            - https://www.facebook.com/groups/kiapbv/permalink/808829081676672/
+            - https://www.kia.com/uk/pbv/lineup/pv5-cargo/
+        - Sign write
+    - Business bank account
+    - PPE
+        - Good impression
+        - Looking after workforce
+    - Company clothing
+    - Computer
+        - Clearer breakdown on job estimates
+        - Looks more professional
+        - Recording your expenses vs income
+        - Software to automate some processes and communications
+            - Gain this could be where Alfi comes in and chase up quotes
+            - Give people clear understanding of what will happen once on site
+            - message before night before arriving
+            - end of the last day
+    - Find a good accountant!!!!
+    - Apprenticeship
+    - Solar Panel Install
+    - What Reassuring acrediations/associations can we put on the website
+    - Certificate on website
+    - Investing in the future
+    - Does Sean know of any builders that he perceives as successful
+    - What does success look like to him
+    - Where do you want to be in 10 years
+    - board for outside the house
+    - Drone
+    - Card payments, visa protection
+    - Price promise
+    - Standardise the quoting process
+    - Have quotes out within 24hrs
+    - Aftershave, Watch -- Want to look comfortable but not a dick....
+    - Offer finance to customers
+        - https://share.google/aimode/5oeLNddhwQZtTFjoK
+    - Chellaston book, look into how much advertising costs
+    - FB Adverts generated from searches
+    - When posted on '@spotted somewhere' it reposts in several other spotted

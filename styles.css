@@ -1,0 +1,86 @@
+body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f1235;
+      color: white;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px;
+      background: #0f1235;
+      border-bottom: 1px solid #2c2f5a;
+    }
+
+    header img {
+      height: 60px;
+    }
+
+    .contact {
+      text-align: right;
+      font-size: 14px;
+    }
+
+    .carousel {
+      position: relative;
+      height: 80vh;
+      overflow: hidden;
+    }
+
+    .slides {
+      display: flex;
+      width: 300%;
+      animation: slide 15s infinite;
+    }
+
+    .slide {
+      width: 100%;
+      height: 80vh;
+      background-size: cover;
+      background-position: center;
+      position: relative;
+    }
+
+    .overlay {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      background: rgba(0,0,0,0.5);
+      padding: 20px;
+      border-radius: 10px;
+    }
+
+    .overlay h1 {
+      margin-bottom: 10px;
+      font-size: 32px;
+    }
+
+    @keyframes slide {
+      0% { transform: translateX(0); }
+      33% { transform: translateX(0); }
+      36% { transform: translateX(-100%); }
+      66% { transform: translateX(-100%); }
+      69% { transform: translateX(-200%); }
+      100% { transform: translateX(-200%); }
+    }
+
+    footer {
+      padding: 20px;
+      text-align: center;
+      background: #0a0c26;
+      border-top: 1px solid #2c2f5a;
+    }
+
+    footer a {
+      color: #7fd1c9;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
